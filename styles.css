@@ -1,0 +1,150 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #EEEEEE;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.main-sub {
+    font-size: 3em;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+
+}
+
+.sub {
+    font-size: 1.5em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 1.5em;
+}
+
+.ms-vw {
+    margin-left: 73vw;
+}
+
+.main-container {
+    /* background-image: url("title-icon.png"); */
+    margin-top: 15vh;
+    padding-bottom: 3em;
+}
+
+.about-container {
+    color: #EEEEEE;
+    margin-top: 3rem;
+    padding: 4.5em 4.5em 4.5em 4.5em;
+}
+
+.about-main-sub {
+
+    font-size: 2em;
+    font-weight: 700;
+    line-height: 3em;
+
+}
+
+.about-sub {
+    padding: 0.5em 10em 0.5em 10em;
+    line-height: 1.5em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.img-logo {
+
+    margin: 0;
+    padding: 0;
+
+    height: 4vw;
+}
+
+.img-profile {
+    border-radius: 150%;
+    margin-bottom: 10vh;
+    width: 16%;
+}
+
+.all-zero {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-right: 0px;
+}
+
+.work-main {
+    padding-bottom: 4em;
+}
+
+.work {
+
+    height: 100%;
+    display: flex;
+    margin-top: 32px;
+    padding: 9px;
+    position: relative;
+}
+
+.work-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-right: 10px;
+    z-index: 1;
+}
+
+.work-right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.work-sub {
+    padding: 0.5em 7em 0.5em 7em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.social {
+    padding:  5rem 5rem 1rem 5rem;
+    color: #EEEEEE;
+    background-color: #393E46;
+}
+.social-main{
+    padding: 0.5em 8em 0.5em 8em;
+}
+.social-main-sub {
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 0.5em 8em 0.5em 8em;
+   opacity: 50%;
+    color: #EEEEEE;
+}
+
+.main-imag-social
+{
+    padding-bottom: 5em;
+}
+.img-social {
+    font-size: xx-large;
+    color: #EEEEEE;
+    cursor: pointer;
+}
+
+.img-social:hover {
+    color: #00ADB5;
+}
+
+.bg-color-1 {
+    background-color: #393E46;
+}
+
+.nav-font-dis {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: #EEEEEE;
+}
+
+.nav-font-dis:hover {
+    color: #00ADB5;
+}
